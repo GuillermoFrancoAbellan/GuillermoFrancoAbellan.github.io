@@ -9,24 +9,24 @@
   
   
   {
-    "title": "Categories",
-    "excerpt": "Category index\n",
+    "title": "Contact",
+    "excerpt": "\n",
     "content": "\n",
-    "url": "/categories/"
+    "url": "/contact/"
   },
   
   {
-    "title": "Elements",
-    "excerpt": "A demo of Markdown and HTML includes\n",
-    "content": "\n",
-    "url": "/elements/"
-  },
-  
-  {
-    "title": "About Alembic",
-    "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, twerk it, push it.\n",
+    "title": "About me",
+    "excerpt": "\n",
     "content": "\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Research",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/research/"
   }
   
 ]
