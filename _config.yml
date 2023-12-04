@@ -63,7 +63,8 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+#    title: Posts # Needed for Siteleaf
+    title:
     output: true
     description: "My thoughts and ideas" # The post list page content
 #    feature_text: |
@@ -93,11 +94,14 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+#title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Guillermo Franco Abellán" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/Solid_white.svg.png" # Site logo, also used in jekyll-seo-tag
 
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+#description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "" # Site description and default description, also used in jekyll-seo-tag
+
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -128,7 +132,7 @@ navigation_header:
 - title: Research
   url: /research/
 - title: CV
-  url: /cv/
+  url: /cv/CV_guillermo.pdf
 - title: Contact
   url: /contact/
 #- title: Search
