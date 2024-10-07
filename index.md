@@ -1,7 +1,7 @@
 ---
 #title: About me
 feature_text: |
-  ## <span style="color:white"> Guillermo Franco Abellán</span>.
+  ## <span style="color:white"> Guillermo Franco Abellán</span>
 feature_image: "https://wallpapers.com/images/hd/watchmen-doctor-manhattan-mars-nf6a1ao2jf8ju0vl.jpg"
 
 #feature_image: "https://wallpapercave.com/wp/wp4143159.jpg"
