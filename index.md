@@ -10,11 +10,11 @@ feature_image: "https://wallpapers.com/images/hd/watchmen-doctor-manhattan-mars-
 #excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, twerk it, push it."
 ---
 
-{% include figure.html image="/assets/Photo_crop2.png" caption="" position="left" width="350" height="800" %}
+{% include figure.html image="/assets/Photo_crop.png" caption="" position="left" width="350" height="800" %}
 
 
 <p style="line-height:28px;margin-right: -10px; margin-top: 20px;">
-I'm Guillermo, and I work as a theoretical physicist specialized in cosmology. I am a postdoctoral research fellow at the <a href="https://www.grappa.amsterdam"> GRAPPA Institute</a>, in the University of Amsterdam. Before this, I completed my PhD in Physics at the LUPM in the University of Montpellier, France, under the supervision of Dr. Vivian Poulin and Dr. Julien Lavalle. Prior to that, I did my undergraduate in Physics at the University of Murcia, Spain.
+I'm Guillermo, and I work as a theoretical physicist specialized in cosmology. I am a postdoctoral research fellow at the <a href="https://www.grappa.amsterdam" style="color: #6600cc;" > GRAPPA Institute</a>, in the University of Amsterdam. Before this, I completed my PhD in Physics at the LUPM in the University of Montpellier, France, under the supervision of Dr. Vivian Poulin and Dr. Julien Lavalle. Prior to that, I did my undergraduate in Physics at the University of Murcia, Spain.
 </p>
 <p></p>
 <p></p>
