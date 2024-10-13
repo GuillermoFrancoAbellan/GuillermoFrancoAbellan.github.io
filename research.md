@@ -33,7 +33,7 @@ Below you can find a brief description of my main areas of research. A complete 
 Simulation-based inference (SBI) refers to a class of Bayesian methods which don't need an explicit evaluation of the likelihood, only to generate samples from it via a stochastic simulator. SBI methods use simulated data-parameter pairs to train neural networks that directly learn the posteriors of interest, and usually are more scalable and efficient than traditional inference methods such as Markov Chain Monte Carlo (MCMC). These modern techniques will be crucial to analyse upcoming surveys like Euclid, as this will be computationally unfeasible with standard tools.
 </p>
 <figure style="margin: 0; margin-left: -70px;">  
-<img src="/assets/plots/swyft.png" alt="Description of Image" style="width: 400px;">
+<img src="/assets/plots/Swyft.png" alt="Description of Image" style="width: 400px;">
 <figcaption style="font-size: 12px; line-height: 17px; text-align: center; margin-left: -10px; margin-right: 400px; color: gray;">
 Forecast constraints on the &Lambda;CDM cosmological parameters from 3x2pt Stage IV photometric probes, using both Swyft (black) and MCMC (green). Swyft is in excellent agreement with MCMC while being ~40 times faster.<br> (from <a href="https://arxiv.org/abs/2403.14750" style="color: #6600cc;"> Abellán, C. Herrera et al. 2024</a>)  
 </figcaption>
