@@ -21,7 +21,7 @@ The following word cloud, generated from all of my publications, gives an idea o
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
 -->
 Below you can find a brief description of my main areas of research. A complete list of my publications can be found on my
-<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20guillermo%20franco%20abellan&ui-citation-summary=true" style="color: #6600cc;"> InspireHEP</a> profile.</p>
+<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20guillermo%20franco%20abellan&ui-citation-summary=true" style="color: #6600cc;"> InspireHEP</a> profile, while my codes can be found on my <a href="https://github.com/GuillermoFrancoAbellan" style="color: #6600cc;"> GitHub page</a>. </p>
 
 <p>
 </p>
@@ -41,7 +41,8 @@ Forecast constraints on the &Lambda;CDM cosmological parameters from 3x2pt Stage
 <p>
 </p>
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-I have applied a recent SBI algorithm called Marginal Neural Ratio Estimation (MNRE, implemented in the code <a href="https://github.com/undark-lab/swyft" style="color: #6600cc;"> Swyft</a>) to LSS photometric probes: weak lensing, galaxy clustering and the cross-correlation power spectra (i.e. the so-called 3x2pt analysis). Using this <a href="https://github.com/GuillermoFrancoAbellan/Swyft-LSS" style="color: #6600cc;"> code</a> and mock data for a Stage IV survey, my collaborators and I showed that we can accurately recover the cosmological parameters with a speedup factor of ~40-60 compared to classical MCMC methods.
+I have applied a SBI algorithm called Marginal Neural Ratio Estimation (MNRE, implemented in <a href="https://github.com/undark-lab/swyft" style="color: #6600cc;"> Swyft</a>) to LSS photometric probes: weak lensing, galaxy clustering and the cross-correlation power spectra (i.e. the so-called 3x2pt signal). Using this code and mock data for a Stage IV survey, my collaborators and I showed that we can accurately recover the cosmological parameters with a <a href="https://arxiv.org/abs/2403.14750" style="color: #6600cc;"> speedup factor of ~40-60 </a> compared to classical MCMC methods. I am also interested in applying SBI to higher-dimensional problems like Bayesian field reconstruction. In this context, I contributed to the development of a SBI framework to efficiently <a href="https://arxiv.org/abs/2410.15808" style="color: #6600cc;">reconstruct the cosmological initial conditions</a> from late-time DM density fields.
+
 </p>
 <p>
 </p>
@@ -50,7 +51,7 @@ I have applied a recent SBI algorithm called Marginal Neural Ratio Estimation (M
 <p style="margin-left: 40px;"> <span style="font-size: 23px;"><b>Cosmic tensions</b></span> </p>
 
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-Several cosmic tensions have emerged in recent years. Namely, local measurements of the Hubble constant H<sub style="font-size: 70%;">0</sub> yield values that are 5-6&sigma; higher than the &Lambda;CDM prediction calibrated onto Planck data. Similarly, weak lensing surveys have reported values of the lumpiness of matter (as quantified by S<sub style="font-size: 70%;">8</sub>) which are consistently lower, at the 2-3&sigma; level. For this reason, there has been a growing interest in exploring different extensions featuring non-trivial dark energy (DE) or dark matter (DM) properties, which could shed light on the mysterious dark sector and possibly explain these anomalies.
+With the increase in the number and accuracy of observations, discrepancies among cosmological parameters have emerged. Namely, local measurements of the Hubble constant H<sub style="font-size: 70%;">0</sub> yield values that are 5-6&sigma; higher than the &Lambda;CDM prediction calibrated onto Planck data. Similarly, weak lensing surveys have reported values of the lumpiness of matter (as quantified by S<sub style="font-size: 70%;">8</sub>) which are consistently lower, at the 2-3&sigma; level. For this reason, there has been a growing interest in exploring different extensions featuring non-trivial dark energy (DE) or dark matter (DM) properties, which could shed light on the mysterious dark sector and possibly explain these anomalies.
 </p>
 
 
@@ -72,7 +73,7 @@ Residuals in the linear matter power spectrum P(k) at redshifts z=0,3 for the be
 <p>
 </p>
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-I have studied the cosmological signatures of various &Lambda;CDM extensions, which are directly targeted at explaining the S<sub style="font-size: 70%;">8</sub> tension (2-body decaying DM), the H<sub style="font-size: 70%;">0</sub> tension (early dark energy, early modified gravity), or both tensions simultaneously (interacting stepped dark radiation). Using data from CMB, SNIa or galaxy clustering, my collaborators and I have derived state-of-the-art constraints on these scenarios, which can be applied to many different high-energy/particle physics models. To achieve this, I have extensively used and modified the Boltzmann solver <a href="https://github.com/lesgourg/class_public" style="color: #6600cc;"> CLASS</a> and the MCMC sampler <a href="https://github.com/brinckmann/montepython_public" style="color: #6600cc;"> MontePython</a>. When needed, I have also developed analytical approximations to speed up the evolution of linear perturbations (for instance, this enabled the first full analysis of the 2-body <a href="https://github.com/GuillermoFrancoAbellan/class_decays/tree/merging_with_master" style="color: #6600cc;"> decaying DM</a> model).
+I have studied the cosmological signatures of various &Lambda;CDM extensions, which are directly targeted at explaining the S<sub style="font-size: 70%;">8</sub> tension (<a href="https://arxiv.org/abs/2102.12498" style="color: #6600cc;">2-body decaying DM</a>), the H<sub style="font-size: 70%;">0</sub> tension (<a href="https://arxiv.org/abs/2009.10733" style="color: #6600cc;">early dark energy</a>, <a href="https://arxiv.org/abs/2308.12345" style="color: #6600cc;">early modified gravity</a>), or both tensions simultaneously (<a href="https://arxiv.org/abs/2306.12469" style="color: #6600cc;">interacting stepped dark radiation</a>). Using data from CMB, SNIa or galaxy clustering, my collaborators and I have derived state-of-the-art constraints on these scenarios, which can be applied to many different high-energy/particle physics models. To achieve this, I have extensively used and modified the Boltzmann solver <a href="https://github.com/lesgourg/class_public" style="color: #6600cc;"> CLASS</a> and the MCMC sampler <a href="https://github.com/brinckmann/montepython_public" style="color: #6600cc;"> MontePython</a>. When needed, I have also developed analytical approximations to speed up the evolution of linear perturbations (for instance, this enabled the first full analysis of the 2-body decaying DM model).
 </p>
 
 
@@ -82,7 +83,7 @@ I have studied the cosmological signatures of various &Lambda;CDM extensions, wh
 <p style="margin-left: 15px;"> <span style="font-size: 23px;"><b>Neutrino cosmology</b></span> </p>
 
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-A key prediction of the concordance cosmological model is the presence of a relic neutrino background (C&nu;B), which leaves detectable imprints on CMB and LSS observables. This can then be used to constrain properties such as neutrino mass, whose origin still remains a mystery. Over recent years, the cosmological upper limits on the total neutrino mass have become increasingly stringent, reaching a point where they may potentially conflict with direct laboratory bounds. However, cosmological mass bounds are model-dependent, and can be significantly relaxed in scenarios such as neutrino decays.
+A key prediction of the concordance cosmological model is the presence of a relic neutrino background (C&nu;B), which leaves detectable imprints on CMB and LSS observables. This can then be used to constrain properties such as neutrino mass. Over recent years, the cosmological upper limits on the total neutrino mass have become increasingly stringent, reaching a point where they may potentially conflict with direct laboratory bounds. However, cosmological mass bounds are model-dependent, and can be significantly relaxed in scenarios such as neutrino decays.
 </p>
 
 <figure style="margin: 0; margin-left: -130px;">  
@@ -95,7 +96,7 @@ based on the data Planck+BAO+SNIa.  (from <a href="https://arxiv.org/abs/2112.13
 <p>
 </p>
 <p style="line-height:26px; margin-left: -220px; margin-right: 210px;">
-Together with my collaborators, we have derived the most up-to-date CMB constraints on &Sum;m<sub style="font-size: 70%;">&nu;</sub> as a function of neutrino lifetime. This work showed that scenarios where neutrinos decay non-relativistically into dark radiation can relax mass bounds up to &Sum;m<sub style="font-size: 70%;">&nu;</sub>~0.4 eV. Recently, I also got interested on improving the modelling of the C&nu;B abundance and anisotropies with the help of numerical simulations and linear perturbation theory. This will be important to understand the prospects of future experiments aiming to directly detect the C&nu;B, like PTOLEMY.
+Together with my collaborators, we have derived the most up-to-date CMB constraints on &Sum;m<sub style="font-size: 70%;">&nu;</sub> as a function of neutrino lifetime. This work showed that scenarios where neutrinos decay non-relativistically into dark radiation can <a href="https://arxiv.org/abs/2112.13862" style="color: #6600cc;">relax mass bounds</a> up to &Sum;m<sub style="font-size: 70%;">&nu;</sub>~0.4 eV. Recently, I also got interested on improving the <a href="https://arxiv.org/abs/2407.14582" style="color: #6600cc;">modelling of the C&nu;B</a> abundance and anisotropies with the help of numerical simulations and linear perturbation theory. This will be important to understand the prospects of future experiments aiming to directly detect the C&nu;B, like PTOLEMY.
 </p>
 <p>
 </p>
@@ -116,7 +117,7 @@ Compilation of constraints on the primordial power spectrum (solid lines) and se
 <p>
 </p>
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-Using an accurate analytical model of DM annihilations within UCMHs onto the CMB (<a href="https://github.com/GuillermoFrancoAbellan/ExoCLASS" style="color: #6600cc;">code</a> here), my collaborator and I have derived robust constraints on the small-scale primordial spectrum. These constraints are competitive with those coming from &gamma;-ray observations or other probes. Currently, I'm forecasting the constraining power of future 21cm surveys to the primordial spectrum, through the effect of minihalo-boosted DM annihilations.
+Using an accurate analytical model of DM annihilations within UCMHs onto the CMB, my collaborator and I have derived robust <a href="https://arxiv.org/abs/2304.02996" style="color: #6600cc;">constraints on the small-scale primordial spectrum</a>. These constraints are competitive with those coming from &gamma;-ray observations or other probes. Currently, I'm forecasting the constraining power of future 21cm surveys to DM annihilations with the help of the Swyft code.
 </p>
 
 <p>
