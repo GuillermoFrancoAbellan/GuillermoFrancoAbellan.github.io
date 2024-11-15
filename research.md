@@ -21,7 +21,7 @@ The following word cloud, generated from all of my publications, gives an idea o
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
 -->
 Below you can find a brief description of my main areas of research. A complete list of my publications can be found on my
-<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20guillermo%20franco%20abellan&ui-citation-summary=true" style="color: #6600cc;"> InspireHEP</a> profile, while my codes can be found on my <a href="https://github.com/GuillermoFrancoAbellan" style="color: #6600cc;"> GitHub page</a>. </p>
+<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20guillermo%20franco%20abellan&ui-citation-summary=true" style="color: #6600cc;"> InspireHEP</a> profile, while my codes can be found on my <a href="https://github.com/GuillermoFrancoAbellan" style="color: #6600cc;"> GitHub</a> page. </p>
 
 <p>
 </p>

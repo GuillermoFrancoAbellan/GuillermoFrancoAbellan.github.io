@@ -17,7 +17,7 @@ I have given over 30 conference talks and seminars at leading institutions. A se
   <li> Invited talk, <em>EDSU-Tools 2024</em>, June 2-7 (2024), Île de Noirmoutier (France) <a href="/assets/talks/Talk_EDSU-Tools.pdf" style="color: #6600cc;"> [slides]</a>
   </li>
 
-  <li> Webinar, <em>Informal Euclid Theory Working Group (WP17) meeting</em>, Apr. 26 (2024), <a href="/assets/talks/Talk_Euclid_WP17.pdf" style="color: #6600cc;"> [slides]</a>
+  <li> Webinar, <em>Euclid Theory Working Group (WP17) informal meeting</em>, Apr. 26 (2024) <a href="/assets/talks/Talk_Euclid_WP17.pdf" style="color: #6600cc;"> [slides]</a>
   </li>
 
   <li> Seminar, <em>Centre de Physique Théorique</em>, Jan. 12 (2024), Marseille (France) <a href="/assets/talks/Talk_CPT.pdf" style="color: #6600cc;"> [slides]</a>
@@ -29,7 +29,7 @@ I have given over 30 conference talks and seminars at leading institutions. A se
   <li> Contributed talk, <em>Third EuCAPT Annual Symposium</em>, May 31-June 2 (2023), Geneva@CERN (Switzerland) <a href="/assets/talks/Talk_EuCAPT.pdf" style="color: #6600cc;"> [slides]</a> <a href="https://cds.cern.ch/record/2860832" style="color: #6600cc;"> [video]</a>
   </li>
 
-  <li> Contributed talk, <em>PONT 2023</em>, May 2-5 (2023), Avignon (France) <a href="/assets/talks/Talk_PONT.pdf" style="color: #6600cc;"> [slides]</a> 
+  <li> Contributed talk, <em>PONT 2023</em>, May 2-5 (2023), Avignon (France) <a href="/assets/talks/Talk_PONT.pdf" style="color: #6600cc;"> [slides]</a>
   </li>
 
   <li> Webinar, <em>Instituto de Astrofísica de Canarias</em>, March 24 (2023), Tenerife (Spain) <a href="/assets/talks/Talk_IAC.pdf" style="color: #6600cc;"> [slides]</a>
