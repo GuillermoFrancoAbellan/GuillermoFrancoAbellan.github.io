@@ -7,7 +7,7 @@ aside: true
 
 
 <p style="line-height:26px; margin-left: -220px; margin-right: 220px;">
-I have given over 30 conference talks and seminars at leading institutions. A selection of my presentations can be found below, including slides and videos.
+I have given over 30 conference talks and seminars at various institutions. A selection of my presentations can be found below, including slides and videos.
 </p>
 
 <ul style="line-height:36px; margin-left: -170px; margin-right: 220px;" >
