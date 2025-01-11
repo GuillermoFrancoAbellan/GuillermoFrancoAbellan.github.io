@@ -21,5 +21,5 @@ I'm Guillermo, and I work as a theoretical physicist specialized in cosmology. I
 <p style="line-height:28px;margin-right: -10px; margin-top: -45px;">
 
 As a researcher, I work on bridging the gap between theory and observations, with special interest in the phenomenology of beyond-ΛCDM models in cosmological observables. Specifically, I have spent a large part of my time thinking about cosmic tensions and their implications for new physics.
-More recently, I've also become interested in the use of machine learning techniques to optimize statistical inference in cosmology. In particular, I'm focusing on novel approaches in simulation-based inference that are significantly faster than traditional methods, and which will allow us to extract the maximum possible information about the universe from future galaxy surveys.
+More recently, I've also become interested in the use of machine learning techniques to optimize statistical inference in cosmology. In particular, I'm focusing on novel approaches in simulation-based inference that are significantly faster than traditional methods, and which will allow us to extract the maximum possible information about the universe from future surveys.
 </p>
