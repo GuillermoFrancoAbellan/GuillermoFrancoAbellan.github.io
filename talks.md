@@ -11,10 +11,11 @@ I have given over 30 conference talks and seminars at various institutions. A se
 </p>
 
 
-<li> Seminar, <em>Central European Institute for Cosmology and Fundamental Physics, CEICO</em>, May 21 (2025), Prague (Czech Republic) <a href="/assets/talks/Talk_CEICO.pdf" style="color: #6600cc;"> [slides]</a>
-</li>
-
 <ul style="line-height:36px; margin-left: -170px; margin-right: 220px;" >
+
+  <li> Seminar, <em>Central European Institute for Cosmology and Fundamental Physics, CEICO</em>, May 21 (2025), Prague (Czech Republic) <a href="/assets/talks/Talk_CEICO.pdf" style="color: #6600cc;"> [slides]</a>
+ </li>
+
   <li>Contributed talk, <em>COSMO'24</em>, Oct. 21-25 (2024), Kyoto (Japan) <a href="/assets/talks/Talk_COSMO24.pdf" style="color: #6600cc;"> [slides]</a>
   </li>
 
