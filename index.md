@@ -14,7 +14,8 @@ feature_image: "https://wallpapers.com/images/hd/watchmen-doctor-manhattan-mars-
 
 
 <p style="line-height:28px;margin-right: -10px; margin-top: 20px;">
-I'm Guillermo, and I work as a theoretical physicist specialized in cosmology. I am a postdoctoral research fellow at the <a href="https://www.grappa.amsterdam" style="color: #6600cc;" > GRAPPA Institute</a>, in the University of Amsterdam. Before this, I completed my PhD in Physics at the LUPM in the University of Montpellier, France, under the supervision of Dr. Vivian Poulin and Dr. Julien Lavalle. Prior to that, I did my undergraduate in Physics at the University of Murcia, Spain.
+I'm Guillermo, and I work as a theoretical physicist specialized in cosmology. I am a postdoc at the Institute of Corpuscular Physics (<a href="https://webific.ific.uv.es/web/en" style="color: #6600cc;" > IFIC</a>), in the University of Valencia. Before this, I was a postdoc at the <a href="https://www.grappa.amsterdam" style="color: #6600cc;" > GRAPPA Institute</a>, in the University of Amsterdam. Prior to that, I completed my PhD in Physics at the <a href="https://www.lupm.in2p3.fr/en/homepage/" style="color: #6600cc;" > LUPM</a> in the University of Montpellier, France, under the supervision of Dr. Vivian Poulin and Dr. Julien Lavalle.
+#Prior to that, I did my undergraduate in Physics at the University of Murcia, Spain.
 </p>
 <p></p>
 <p></p>
