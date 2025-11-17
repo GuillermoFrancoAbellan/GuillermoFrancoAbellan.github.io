@@ -6,7 +6,7 @@ aside: true
 ---
 
 <p style="line-height:10px;">  <b>Email:</b> <a href="mailto:g.francoabellan@ific.uv.es" style="color: #6600cc;">g.francoabellan@ific.uv.es</a>  </p>
-<p style="line-height:26px;">  <b>Office:</b> IATA 510 <br>
+<p style="line-height:26px;">  <b>Office:</b> 510 (IATA building)  <br>
 IFIC, CSIC-Universitat de València <br>
 Parc Científic UV, c/ Catedrático José Beltrán 2  <br>
 E-46980 Paterna (València), Spain </p>
